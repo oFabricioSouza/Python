@@ -1,0 +1,17 @@
+
+body{
+    background-color: darkred;
+}
+table{
+    background-color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-color: aliceblue;
+}
+th{
+    color: aliceblue;
+}
+td{
+    color: aliceblue;
+    font-family: Verdana;
+}
